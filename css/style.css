@@ -502,6 +502,7 @@ body
 */
 .footer{
   background-color: var(--primary-color);
+  text-align: center;
 }
 .footer .footer-link
 {
